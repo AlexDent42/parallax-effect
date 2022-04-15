@@ -43,6 +43,10 @@ section img {
     pointer-events: none;
 }
 
+section img#man {
+    transform-origin: bottom;
+}
+
 #text   {
     position: relative;
     color: var(--white-color);
